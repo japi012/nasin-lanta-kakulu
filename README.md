@@ -18,12 +18,22 @@ mi toki e ilo esun mute tawa sina.
 
 ### ilo pi esun sama
 
-sitelen la ilo pi esun sama li ni: $$\lambda x.x$$ esun ni li seme? mi pana e nanpa tawa ilo ni la ona li pana e nanpa *sama* tawa mi.  ni li esun sama.
+sitelen la ilo pi esun sama li ni:
+
+$$\lambda x.x$$
+
+esun ni li seme? mi pana e nanpa tawa ilo ni la ona li pana e nanpa *sama* tawa mi.  ni li esun sama.
 
 ### sitelen esun
 
-mi wile sitelen e esun la mi sitelen e ilo esun lon nanpa wan e ijo pana lon nanpa tu. mi ken kepeken sitelen selo lon ilo esun. sama ni: $$(\lambda x.x)y$$ ni li seme? ni li esun. ilo esun li ilo pi esun sama. ijo pana li sitelen $y$. mi ken pona e ni. pona la sitelen la ona li ni:
+mi wile sitelen e esun la mi sitelen e ilo esun lon nanpa wan e ijo pana lon nanpa tu. mi ken kepeken sitelen selo lon ilo esun. sama ni:
+
+$$(\lambda x.x)y$$
+
+ni li seme? ni li esun. ilo esun li ilo pi esun sama. mi pana e sitelen $y$ tawa ilo esun. tenpo kama la seme li lon? mi jo e sitelen $y$ taso.
+
 $$y$$
-esun li lon tenpo pini. tenpo ni la mi jo e sitelen $y$.
+
+mi pana e sitelen $y$ tawa ilo pi esun sama la mi jo e sitelen $y$ taso. esun li lon e sitelen $y$.
 
 [ TODO ]
