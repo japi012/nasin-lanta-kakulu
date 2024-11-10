@@ -6,7 +6,7 @@ mi wile toki e ijo tawa sina. ijo ni li pona tawa jan mute pi pali ilo. ni li il
 
 o toki insa e ni: ilo li lon. sina pana e nanpa tawa ilo ni la ilo ni li pana e nanpa tawa sina. ilo ni li ilo esun nanpa. ona li kama jo e nanpa la ona li pana e nanpa. sina wile sitelen e ni la nanpa sina li ken sitelen kalama. jan mute li kepeken sitelen $x$. taso, ni li ken sitelen ale.
 
-o toki insa e ilo esun nanpa ni: ona li sin e wan tawa nanpa. sina pana e wan tawa ilo ni la ilo ni li pana e tu tawa sina. sina wile sitelen e esun ni la sina ken sitelen e ni: $x \rightarrow x + 1$. nanpa sina li sitelen $x$. nanpa ilo li sitelen $x + 1$. sitelen $\rightarrow$ li lon insa.
+o toki insa e ilo esun nanpa ni: ona li sin e wan tawa nanpa. sina pana e wan tawa ilo ni la ilo ni li pana e tu tawa sina. sina wile sitelen e esun ni la sina ken sitelen e ni: $x \rightarrow x + 1$. nanpa moku li sitelen $x$. nanpa kama li sitelen $x + 1$. sitelen $\rightarrow$ li lon insa.
 
 ### nasin sitelen Lanta Kakulu
 
@@ -22,11 +22,11 @@ sitelen la ilo pi esun sama li ni:
 
 $$\lambda x.x$$
 
-esun ni li seme? mi pana e nanpa tawa ilo ni la ona li pana e nanpa *sama* tawa mi.  ni li esun sama.
+esun ni li seme? mi pana e nanpa tawa ilo ni la ona li pana e nanpa *sama* tawa mi. ni li esun sama.
 
 ### sitelen esun
 
-mi wile sitelen e esun la mi sitelen e ilo esun lon nanpa wan e ijo pana lon nanpa tu. mi ken kepeken sitelen selo lon ilo esun. sama ni:
+mi wile sitelen e esun la mi sitelen e ilo esun lon nanpa wan e ijo pana lon nanpa tu. mi ken kepeken sitelen poki lon ilo esun. sama ni:
 
 $$(\lambda x.x)y$$
 
