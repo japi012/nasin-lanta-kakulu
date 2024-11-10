@@ -34,6 +34,6 @@ ni li seme? ni li esun. ilo esun li ilo pi esun sama. mi pana e sitelen $y$ tawa
 
 $$y$$
 
-mi pana e sitelen $y$ tawa ilo pi esun sama la mi jo e sitelen $y$ taso. esun li lon e sitelen $y$.
+mi pana e sitelen $y$ tawa ilo pi esun sama la mi jo e sitelen $y$ taso. esun li lon e sitelen $y$. tenpo pini la mi jo e sitelen mute. ni li sitelen ike. mi ante e sitelen ni la mi jo e sitelen pona. mi *pona* e sitelen pi tenpo pini. esun li lon sitelen la sina ken pona e sitelen.
 
 [ TODO ]
